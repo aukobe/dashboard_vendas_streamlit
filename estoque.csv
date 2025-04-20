@@ -1,0 +1,16 @@
+Produto,Quantidade,Categoria,Valor,Frete,Marca,Data da Compra,Local da compra,lat,lon,Avaliacao da compra,Tipo de pagamento,Quantidade de parcelas
+Shampoo anticaspa,5,Higiene,10.90,12.50,Elseve,03/02/2020,BA,-13.29,-41.71,1,cartao_credito,3
+Arroz integral,8,Alimento,15.99,0,Camil,08/06/2021,SP,-22.19,-48.79,5,cartao_credito,1
+Fone de ouvido,6,Eletrônico,150.0,52.50,Samsung,06/01/2021,RJ,-22.25,-42.66,4,cartao_credito,4
+Mouse sem fio,4,Eletrônico,90.0,32.99,Samsung,07/01/2020,RJ,-22.25,-42.66,4,boleto,1
+Macarrão parafuso,7,Alimento,5.59,2.20,Renata,01/01/2020,RJ,-22.25,-42.66,1,cartao_debito,1
+Sabonete antiacne,9,Higiene,3.90,0,Dove,09/03/2020,SP,-22.19,-48.79,4,boleto,1
+Headset,7,Eletrônico,390.0,13.90,Samsung,21/04/2021,ES,-19.19,-40.34,5,cartao_credito,2
+Notebook com SSD,3,Eletrônico,1299.0,45.00,Lenovo,30/06/2020,MG,-18.1,-44.38,3,cartao_credito,4
+Condicionador,4,Higiene,8.50,5.00,Elseve,04/11/2020,SP,-22.19,-48.79,5,boleto,1
+Feijão vermelho,5,Alimento,15.90,3.90,Camil,09/01/2021,BA,-13.29,-41.71,5,cartao_credito,2
+Molho de tomate,7,Alimento,2.50,1.90,Renata,24/12/2020,MG,-18.1,-44.38,4,cartao_debito,1
+Mousepad 23x16 cm,6,Eletrônico,10.0,5.25,Lenovo,06/05/2021,ES,-19.19,-40.34,3,cartao_credito,5
+Creme dental 70g,5,Higiene,3.0,0,Colgate,09/09/2020,MG,-18.1,-44.38,5,boleto,1
+Cotonete 75 un,3,Higiene,3.0,7.20,Dove,06/06/2021,BA,-13.29,-41.71,1,cartao_credito,5
+Fio dental,8,Higiene,5.15,3.50,Colgate,01/01/2021,SP,-22.19,-48.79,5,cartao_debito,1
